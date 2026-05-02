@@ -138,7 +138,7 @@ NODE_ENV=production
 
 ## Submission Checklist
 
-- Live application URL: add your Railway URL here
+- Live application URL: https://team-task-manager-production-063e.up.railway.app
 - GitHub repository: https://github.com/Aniket-Sharma0568/team-task-manager
 - README: included
 - Demo video: record a 2-5 minute walkthrough covering signup, project creation, members, task assignment, status updates, dashboard, and Railway deployment
